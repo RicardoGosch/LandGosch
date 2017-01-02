@@ -1,0 +1,11 @@
+main: net.fycraft.bukkit.LandGoschPlugin
+name: LandGosch
+version: 1.0
+description: Plugin responsavel pela protecao de terrenos
+author: Ricardo Gosch
+
+## Commands
+commands:
+  land:
+    description: Principal comando do plugin
+    aliases: [terreno]
